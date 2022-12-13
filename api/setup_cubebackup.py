@@ -17,10 +17,10 @@ LICENSE_CODE = "FC3ED7WZ-XXXXXX-XXXXXX-33E863RM"
 DOMAIN_NAME = "your-workspace-domain.com"
 DOMAIN_ADMIN = "admin@your-workspace-domain.com"
 
-# https://v4beta.cubebackup.com/docs/user_guide/initial_config_linux/#step-3-create-google-service-account
+# https://www.cubebackup.com/docs/user_guide/initial_config_linux/#step-3-create-google-service-account
 SERVICE_ACCOUNT = "/Users/spider/jwt.json"
 
-# https://v4beta.cubebackup.com/docs/tutorials/cubebackup-api-reference/#the-storage-object
+# https://www.cubebackup.com/docs/tutorials/cubebackup-api-reference/#the-storage-object
 STORAGE_CONFIG = {
     "EncryptEnabled": True,
     "Type": "S3",
